@@ -1,0 +1,379 @@
+{
+    "os": "Linux-5.15.0-89-generic-x86_64-with-glibc2.35",
+    "python": "3.10.8",
+    "heartbeatAt": "2023-12-15T16:54:17.884456",
+    "startedAt": "2023-12-15T16:54:16.762353",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/data/public/MLA/share/MLA_interns/pipeline/source/main_withllm.py",
+    "codePath": "source/main_withllm.py",
+    "host": "arca.spass.dev",
+    "username": "vivi",
+    "executable": "/home/vivi/.conda/envs/rm_vivi/bin/python3",
+    "cpu_count": 32,
+    "cpu_count_logical": 64,
+    "cpu_freq": {
+        "current": 1033.38496875,
+        "min": 800.0,
+        "max": 3600.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 2300.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 1700.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 1300.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3600.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 2000.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 2300.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 2300.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 2300.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 2200.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 2300.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3600.0
+        }
+    ],
+    "disk": {
+        "total": 438.00694274902344,
+        "used": 98.82436752319336
+    },
+    "gpu": "NVIDIA A100-PCIE-40GB",
+    "gpu_count": 6,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA A100-PCIE-40GB",
+            "memory_total": 42949672960
+        },
+        {
+            "name": "NVIDIA A100-PCIE-40GB",
+            "memory_total": 42949672960
+        },
+        {
+            "name": "NVIDIA A100-PCIE-40GB",
+            "memory_total": 42949672960
+        },
+        {
+            "name": "NVIDIA A100-PCIE-40GB",
+            "memory_total": 42949672960
+        },
+        {
+            "name": "NVIDIA A100-PCIE-40GB",
+            "memory_total": 42949672960
+        },
+        {
+            "name": "NVIDIA A100-PCIE-40GB",
+            "memory_total": 42949672960
+        }
+    ],
+    "memory": {
+        "total": 125.53316116333008
+    }
+}

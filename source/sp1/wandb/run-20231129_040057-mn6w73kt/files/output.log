@@ -1,0 +1,17 @@
+
+{'lr': 0.000321770480114269, 'num_blocks': 4, 'num_stacks': 4, 'num_layers': 3, 'layer_widths': 128, 'activation': 'LeakyReLU', 'loss_function': 'dilate', 'model_name': '20230817_124526_nhits_woc_dilate_BP_bprm_fm_bp', 'gpu_num': 2, 'logger': <pytorch_lightning.loggers.wandb.WandbLogger object at 0x7fa51a3a7d30>, 'callbacks': [<pytorch_lightning.callbacks.early_stopping.EarlyStopping object at 0x7fa51a422fb0>]}
+ValueError: Could not find base model save file `_model.pth.tar` in /data/public/MLA/share/MLA_interns/pipeline/source/sp1/darts_logs/20230817_124526_nhits_woc_dilate_BP_bprm_fm_bp.
+Traceback (most recent call last):
+  File "/data/public/MLA/share/MLA_interns/pipeline/source/sp1/main.py", line 105, in <module>
+    forecast_meanbp = get_forecasts(model_path_meanbp, input_meanbp)
+  File "/data/public/MLA/share/MLA_interns/pipeline/source/sp1/forecasting.py", line 85, in get_forecasts
+    loaded_model = darts_models.load_dartsmodel(model_type='nhits',
+  File "/data/public/MLA/share/MLA_interns/pipeline/source/models/darts_models.py", line 914, in load_dartsmodel
+    mdl = load_nhits_model(**model_hyper_params, **model_training_params)
+  File "/data/public/MLA/share/MLA_interns/pipeline/source/models/darts_models.py", line 593, in load_nhits_model
+    best_model_nhits = model_nhits.load_from_checkpoint(model_name)
+  File "/home/daisy/miniconda3/envs/rm_vivi/lib/python3.10/site-packages/darts/models/forecasting/torch_forecasting_model.py", line 1403, in load_from_checkpoint
+    raise_if_not(
+  File "/home/daisy/miniconda3/envs/rm_vivi/lib/python3.10/site-packages/darts/logging.py", line 78, in raise_if_not
+    raise ValueError(message)
+ValueError: Could not find base model save file `_model.pth.tar` in /data/public/MLA/share/MLA_interns/pipeline/source/sp1/darts_logs/20230817_124526_nhits_woc_dilate_BP_bprm_fm_bp.

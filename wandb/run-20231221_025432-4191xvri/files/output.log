@@ -1,0 +1,2 @@
+
+{'lr': 0.000321770480114269, 'num_blocks': 4, 'num_stacks': 4, 'num_layers': 3, 'layer_widths': 128, 'activation': 'LeakyReLU', 'loss_function': 'dilate', 'model_name': '20230817_124526_nhits_woc_dilate_BP_bprm_fm_bp', 'gpu_num': 2, 'logger': <pytorch_lightning.loggers.wandb.WandbLogger object at 0x7f42ed692560>, 'callbacks': [<pytorch_lightning.callbacks.early_stopping.EarlyStopping object at 0x7f41d0fc4460>]}
