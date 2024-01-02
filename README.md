@@ -1,20 +1,19 @@
 # Project Name
 
-A brief description or introduction to your project. Explain what it does, why it's useful, and any key features.
+This is the code for sp1 project demo. 
 
 ## Table of Contents
 
-- [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
-## Installation
-
-Provide step-by-step instructions on how to install the project. Include prerequisites and any dependencies needed.
+## Usage
+To run the sp1 demo, here is the sample code:
 
 ```bash
-# Example installation steps or commands
-$ git clone https://github.com/username/repository.git
-$ cd repository
-$ npm install  # or any other installation commands
+# Example running commands
+$ cd /Pipeline/source/
+$ python /Pipeline/source/main_withllm4.py
+```
+
+## Results
+![plot](./directory_1/directory_2/.../directory_n/plot.png)
