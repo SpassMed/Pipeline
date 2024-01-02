@@ -16,4 +16,5 @@ $ python /Pipeline/source/main_withllm4.py
 ```
 
 ## Results
-![plot](./directory_1/directory_2/.../directory_n/plot.png)
+![plot](./sp1demo1.png)
+![plot](./sp1demo2.png)
